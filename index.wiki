@@ -1,0 +1,6 @@
+== What's this ==
+This is a list of [[scripts]], [[links]] and [[howtos|howtos/tips]] to remind myself and
+that could be useful to others.
+
+=== Fun stuff ===
+* https://factorio.com - If you like automation that game is for you
