@@ -2,5 +2,6 @@
 List of great links to remember:
 * https://audiomass.co/ - Edit audio online
 * https://crontab.guru/ - Easy way to create your crontab syntax
+* https://jochen-hoenicke.de/queue/ - How busy is the Bitcoin Network
 
 [[index|Back to index]]
