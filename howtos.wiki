@@ -5,5 +5,5 @@
 === Vim ===
 * CTRL_o+o - Magic! The most recent file you edited opened!
 * gi - Jump to last editing position
-* CTRL_V+CTRL_G+g+CTRL_A - create a sequence of numbers (detail: https://twitter.com/MasteringVim/status/1262100964317827072 )
+* CTRL_V+SHIFT_G+g+CTRL_A - create a sequence of numbers (detail: https://twitter.com/MasteringVim/status/1262100964317827072 )
 [[index|Back to index]]
