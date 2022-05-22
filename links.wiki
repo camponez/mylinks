@@ -4,5 +4,6 @@ List of great links to remember:
 * https://crontab.guru/ - Easy way to create your crontab syntax
 * https://jochen-hoenicke.de/queue/ - How busy is the Bitcoin Network
 * https://github.com/chubin/wttr.in - curl weather
+* https://12ft.io/ - if paywall is your problem
 
 [[index|Back to index]]
